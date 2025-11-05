@@ -25,7 +25,7 @@ cmake --build build --config Release -j
 
 1. setup_model_weights.pt - download weights
 2. test.py - test origin model by test_data
-3. convert.py - modify model to do pre- and post-processing and converts to pte.
+3. convert.py - modifies model to do pre- and post-processing and converts to pte.
 4. app (build) - run pte and save/load images (requires opencv and executorch).
 5. https://disk.yandex.ru/d/1cW638087PnZgg have two exported programs (vulkan and xnnpack).
 
