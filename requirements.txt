@@ -1,0 +1,7 @@
+numpy
+torch
+scikit-image
+torchvision
+gdown
+matplotlib
+executorch==1.0.0
